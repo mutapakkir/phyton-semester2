@@ -1,0 +1,10 @@
+print("Aolikasi Biodata")
+name = input("masukkan nama")
+gender = input("masukkan gender")
+Tanggal_lahir = input("masukka tanggal lahir")
+hobi = input("masukkan hobi" )
+
+print("Nama :",name)
+print("gender :",gender)
+print("tanggal lahir:",Tanggal_lahir)
+print("hobi :",hobi)
